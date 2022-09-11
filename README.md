@@ -24,7 +24,9 @@ I like to spend my free time with my girlfriend and my dog and love to wonder th
 <br />
 
 <img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/tools.svg" alt="Laravel, Vue.js, Nuxt.js, Tailwind CSS" height="250px">
+
 ---
+
 <a href="https://github.com/nicodevs/nicodevs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicodevs&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nico's GitHub stats" />
 </a>
