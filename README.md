@@ -21,9 +21,10 @@ I like to spend my free time with my girlfriend and my dog and love to wonder th
 
 ## 👨‍💻 My Favourite Tools
 
-<img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/tools.svg" alt="Laravel, Vue.js, Nuxt.js, Tailwind CSS">
-
 <br />
+
+<img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/tools.svg" alt="Laravel, Vue.js, Nuxt.js, Tailwind CSS" height="250px">
+
 <br />
 
 ---
