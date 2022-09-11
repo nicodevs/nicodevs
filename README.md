@@ -21,15 +21,7 @@ I like to spend my free time with my girlfriend and my dog and love to wonder th
 
 ## 👨‍💻 My Favourite Tools
 
-<table style="border: medium none;"><tr href="https://vuejs.org" title="Vue.js" style="border: medium none;"><td style="border: medium none;"><img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/vuejs.svg" alt="Vue.js" width="64px"></td> <td><h3>
-        Vue.js
-      </h3></td></tr><tr href="https://nuxtjs.org" title="Nuxt.js" style="border: medium none;"><td style="border: medium none;"><img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/nuxtjs.svg" alt="Nuxt.js" width="64px"></td> <td><h3>
-        Nuxt.js
-      </h3></td></tr><tr href="https://laravel.com" title="Laravel" style="border: medium none;"><td style="border: medium none;"><img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/laravel.svg" alt="Laravel" width="64px"></td> <td><h3>
-        Laravel
-      </h3></td></tr><tr href="https://tailwindcss.com" title="Tailwind" style="border: medium none;"><td style="border: medium none;"><img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/tailwind.svg" alt="Tailwind" width="64px"></td> <td><h3>
-        Tailwind
-      </h3></td></tr></table>
+<img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/tools.svg" alt="Laravel, Vue.js, Nuxt.js, Tailwind CSS">
 
 <br />
 <br />
