@@ -16,6 +16,8 @@ I like to spend my free time with my girlfriend and my dog and love to wonder th
 [<img align="left" alt="nicodevs | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
+<br />
+<br />
 
 ## 👨‍💻 Languages and Tools
 
@@ -26,7 +28,7 @@ I like to spend my free time with my girlfriend and my dog and love to wonder th
 
 ---
 
-| <a href="https://github.com/nicodevs/nicodevs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankit's github stats" /></a> | <a href="https://github.com/nicodevs/nicodevs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma-007&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/nicodevs/nicodevs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicodevs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nico's GitHub stats" /></a> | <a href="https://github.com/nicodevs/nicodevs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodevs&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
