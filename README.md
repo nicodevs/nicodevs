@@ -4,7 +4,7 @@
 
 - I'm a software developer from Buenos Aires (Argentina), currently living in Montevideo (Uruguay).
 - I'm 37 years old and I've been creating websites since I was 15.
-- I have more than 15 years of professional experience in companies in Argentina, USA and Europe.
+- I have more than 15 years of professional experience in companies from Argentina, USA and Europe.
 - I love clean, organized, and well structured codebases.
 - I'm a fan of Vue.js, Nuxt.js, Laravel and Tailwind 🚀
 
