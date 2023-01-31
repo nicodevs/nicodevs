@@ -2,13 +2,13 @@
 
 ### Lead Software Developer at [VueSchool.io](https://vueschool.io)
 
-- I'm a software developer from Buenos Aires (Argentina), currently living in Montevideo (Uruguay).
-- I'm 37 years old and I've been creating websites since I was 15.
-- I have more than 15 years of professional experience in companies from Argentina, USA and Europe.
-- I love clean, organized, and well structured codebases.
-- I'm a fan of Vue.js, Nuxt.js, Laravel and Tailwind 🚀
+I'm a software developer from Buenos Aires (Argentina), currently living in Montevideo (Uruguay).
 
-I like to spend my free time with my girlfriend and my dog and love to wonder the lands of Dungeons and Dragons.
+I'm 38 years old and I have 14 years of professional experience working for companies in Argentina, USA, and Europe. I love clean, organized, and well structured codebases.
+
+I'm a fan of Vue.js, Nuxt.js, Laravel and Tailwind.
+
+In my free time I love spending time with my girlfriend and my old dog, and to play Dungeons and Dragons with my friends.
 
 ## 🤝 Connect with me:
 
