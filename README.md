@@ -1,6 +1,6 @@
 # Hi! I am Nico Devs 👋
 
-### Lead Software Developer at [VueSchool.io](https://vueschool.io)
+### Fullstack Software Developer at [Tighten](https://tighten.com)
 
 I'm a software developer from Buenos Aires (Argentina), currently living in Montevideo (Uruguay).
 
