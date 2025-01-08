@@ -14,6 +14,7 @@
 ## 🤝 Socials:
 
 - [X.com](https://twitter.com/nicodevs)
+- [BlueSky](https://bsky.app/profile/nicodevs.bsky.social)
 
 
 
