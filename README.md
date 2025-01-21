@@ -3,7 +3,7 @@
 ### Fullstack Software Developer at [Tighten](https://tighten.com)
 
 - I'm a software developer from Buenos Aires, Argentina.
-- I have 15 years of professional experience. I love clean, organized, and well structured codebases.
+- I have 20 years of professional experience. I love clean, organized, and well structured codebases.
 - I'm a fan of Vue.js, Nuxt, Laravel and Tailwind.
 - In my free time I love spending time with my girlfriend and my old dog, and to play Dungeons and Dragons with my friends.
 
