@@ -7,7 +7,11 @@
 - I'm a fan of Vue.js, Nuxt, Laravel and Tailwind.
 - In my free time I love spending time with my girlfriend and my old dog, and to play Dungeons and Dragons with my friends.
 
-## 👨‍💻 My Articles
+## 💻 My Site
+
+- [nicodevs.com](https://nicodevs.com)
+
+## ✍️ Guest Articles
 
 - [Tighten's Blog](https://tighten.com/authors/nico-devs/)
 
