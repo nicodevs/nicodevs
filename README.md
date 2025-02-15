@@ -1,6 +1,6 @@
 # Hi! I am Nico Devs 👋
 
-### Fullstack Senior Software Developer
+### Senior Fullstack Software Developer
 
 - I'm a from Buenos Aires, Argentina.
 - I have 20 years of professional experience. I love clean, organized, and well structured codebases.
