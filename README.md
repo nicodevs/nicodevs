@@ -1,10 +1,10 @@
 # Hi! I am Nico Devs 👋
 
-### Fullstack Software Developer at [Tighten](https://tighten.com)
+### Fullstack Senior Software Developer
 
-- I'm a software developer from Buenos Aires, Argentina.
+- I'm a from Buenos Aires, Argentina.
 - I have 20 years of professional experience. I love clean, organized, and well structured codebases.
-- I'm a fan of Vue.js, Nuxt, Laravel and Tailwind.
+- I'm a fan of Laravel, Vue.js, Nuxt and Tailwind.
 - In my free time I love spending time with my girlfriend and my old dog, and to play Dungeons and Dragons with my friends.
 
 ## 💻 My Site
